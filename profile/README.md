@@ -1,14 +1,3 @@
-****
-
-<h1 align="center">VIVIDUS Supports Ukraine 🇺🇦</h1>
-<h3 align="center">In solidarity, we ask that you consider financially supporting the organizations below:</h3>
-<br/>
-<p align="center">
-  <a href="https://epamuafund.pinkaloo.com/causes/159bdd2f71854adf8ed5251fe26d2fe0" target="_blank"> EPAM Ukraine Assistance Fund</a>
-</p>
-
-****
-
 # What is VIVIDUS
 
 VIVIDUS is a test automation tool that offers already implemented solution for testing of most popular application types.
